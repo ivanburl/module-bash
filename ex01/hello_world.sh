@@ -1,4 +1,4 @@
-#!/usr/bin/env bats
+#!/usr/bin/env bash
 
 if [ "$#" -eq 1 ]; then
     echo "Hello, $1!"
